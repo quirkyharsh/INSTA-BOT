@@ -1,5 +1,6 @@
 <h1>🎉 Automated Birthday Wisher for Instagram 🎉</h1>
 
+<br />
 This Instagram bot automates sending personalized birthday wishes to your friends! 🎂🎈 Using Selenium, it logs into your account, reads birthday data from birthdays.csv, and sends messages to your followers on their special day.
 
 
@@ -12,7 +13,7 @@ This Instagram bot automates sending personalized birthday wishes to your friend
         <li>📈 Customizable Messages: Personalize your birthday wishes.</li>
     </ul>
 
-
+<br />
 <h2>How It Works:</h2>
     <ol>
         <li><strong>Login</strong>: Logs into Instagram using Selenium.</li>
